@@ -10,11 +10,11 @@
 ## VINCULOS ACADÉMICOS Y DESCRIPCIÓN
 
 ### _ Alexandra Vásquez
-#### Estudiante de ingeniería industrial (virtual) sede Medellín
+##### Estudiante de ingeniería industrial (virtual) sede Medellín
 #### **Habilidades y fortalezas**
-#### _ Resolución de problemas
-#### _ Trabajo en equipo
-#### _ Uso de herramientas digitales
+#####   _ Resolución de problemas
+#####   _ Trabajo en equipo
+#####   _ Uso de herramientas digitales
 
 ### _ 
 

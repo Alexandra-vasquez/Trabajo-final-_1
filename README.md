@@ -4,10 +4,10 @@
 
 ## INTEGRANTES
 ### _ Alexandra Vásquez Gallego
-### _ 
+### _ Carolayn Restrepo Tavera
 ### _
 
-## VINCULOS ACADÉMICOS Y DESCRIPCIÓN
+## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
 
 ### Alexandra Vásquez
 #####     Estudiante de ingeniería industrial (virtual) sede Medellín
@@ -16,6 +16,6 @@
 #####   _ Trabajo en equipo
 #####   _ Uso de herramientas digitales
 
-### _ 
+### _ Carolayn Restrepo Tavera
 
 ### _ 

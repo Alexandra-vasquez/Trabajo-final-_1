@@ -18,7 +18,7 @@
 
 ### _ Carolayn Restrepo Tavera
 
-### _ 
+##### _ Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
 
 
 

@@ -5,7 +5,7 @@
 ## INTEGRANTES
 ### _ Alexandra Vásquez Gallego
 ### _ Carolayn Restrepo Tavera
-### _ kateryn Lopez
+### _ Kateryn Lopez
 
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
 

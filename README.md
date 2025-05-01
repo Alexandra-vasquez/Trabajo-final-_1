@@ -16,19 +16,19 @@
 #####   _ Trabajo en equipo
 #####   _ Uso de herramientas digitales
 
-### _ Carolayn Restrepo Tavera
+### Carolayn Restrepo Tavera
 
-##### _ Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
+#####      Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
 
 
 
-# PARQ UDEA
+## PARQUDEA
 
 ![logo](_69d15de4-b5a9-44d2-ad32-344f9d5e7cf0.jpg)
 
-### Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
+#### Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
 
-## Esta obra está licenciada bajo CC BY-NC-ND 4.0      
+### Esta obra está licenciada bajo CC BY-NC-ND 4.0      
 
 
 

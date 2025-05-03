@@ -3,13 +3,13 @@ Profesor: John Heider Dávila Dávila.
 
 Curso: Algoritmia y Programación
 
-## INTEGRANTES
+### INTEGRANTES
 * Alexandra Vásquez Gallego
 * Carolayn Restrepo Tavera
 * Kateryn Lopez Serna
 
 
-## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
+### VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
 
 ### Alexandra Vásquez
 ##### Estudiante de ingeniería industrial (virtual) sede Medellín

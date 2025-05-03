@@ -77,8 +77,9 @@
 
 ![logo](_69d15de4-b5a9-44d2-ad32-344f9d5e7cf0.jpg)
 
-#### Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
+Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
 
+### Esta obra está licenciada bajo CC BY-NC-ND 4.0
 El software que se desarrollará permitirá llevar un registro más organizado y eficiente con esto no solo se verán beneficiados los empleados de la zona de registro y el área administrativa, sino también los usuarios.
 
 #### Objetivos y Beneficios
@@ -88,8 +89,6 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 *	Facilitar el análisis de la información para la toma de decisiones mediante la generación de reportes con acceso sólo para administradores protegido con usuario y contraseña.
 *	Validación de errores comunes en el ingreso de información para mejorar la calidad de los datos registrados
 
-
-### Esta obra está licenciada bajo CC BY-NC-ND 4.0
 
 
 

@@ -3,9 +3,9 @@
 ### Curso: Algoritmia y Programación
 
 ## INTEGRANTES
-### * Alexandra Vásquez Gallego
-### * Carolayn Restrepo Tavera
-### * Kateryn Lopez Serna
+* Alexandra Vásquez Gallego
+* Carolayn Restrepo Tavera
+* Kateryn Lopez Serna
 
 
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
@@ -13,24 +13,24 @@
 ### Alexandra Vásquez
 ##### Estudiante de ingeniería industrial (virtual) sede Medellín
 #### Habilidades y fortalezas
-#####  * Resolución de problemas
-#####  * Trabajo en equipo
-#####  * Uso de herramientas digitales
+* Resolución de problemas
+* Trabajo en equipo
+* Uso de herramientas digitales
 
 ### Carolayn Restrepo Tavera
 ##### Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
 
 #### Habilidades y fortalezas
-#####  * Proactividad
-#####  * Resistencia
-#####  * Compromiso
+* Proactividad
+* Resistencia
+* Compromiso
 
 ### Kateryn López Serna
 ##### Estudiante de Ingeniería Industrial (virtual) sede Medellín
 
 #### Habilidades y fortalezas
-##### * Capacidad Analítica
-##### * Adaptabilidad
+* Capacidad Analítica
+* Adaptabilidad
 
 [ACTA DE ENTENDIMIENTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20ENTENDIMIENTO.pdf)
 
@@ -40,30 +40,30 @@
 
 ### REQUISITOS FUNCIONALES 
 #### Registro de usuario:
-##### * Nombre
-##### * Apellido
-##### * Documento
-##### * Placa
+* Nombre
+* Apellido
+* Documento
+* Placa
 
 #### Ingreso y retiro de vehículos:
-##### * Solo se permitirá entrada vehículos de usuarios registrados
-##### * Se cobrará la tarifa por hora, y tarifa por cuarto de hora total.
-##### * Condición de pago mínimo (7000).
+* Solo se permitirá entrada vehículos de usuarios registrados
+* Se cobrará la tarifa por hora, y tarifa por cuarto de hora total.
+* Condición de pago mínimo (7000).
 
 #### Acceso de administrador: 
-##### * El programa solo permitirá acceder al espacio de administrador a quien tenga usuario y contraseña de administración.
+* El programa solo permitirá acceder al espacio de administrador a quien tenga usuario y contraseña de administración.
 #### Espacio de administración:
-##### * Total de vehículos registros
-##### * Total de vehículos retirados
-##### * Total de vehículos sin retirar
-##### * Total de pago de vehículos retirados
-##### * Tiempo promedio de estancia por vehículo en el parqueadero
-##### * Lista de usuarios
-##### * Vehículos con tiempo de parqueo máximo y mínimo
+* Total de vehículos registros
+* Total de vehículos retirados
+* Total de vehículos sin retirar
+* Total de pago de vehículos retirados
+* Tiempo promedio de estancia por vehículo en el parqueadero
+* Lista de usuarios
+* Vehículos con tiempo de parqueo máximo y mínimo
 
 
 #### EXPORTACIÓN DE DATOS
-##### * Enviar registros de ingresos, salidas y cobros a un archivo plano
+* Enviar registros de ingresos, salidas y cobros a un archivo plano
 
 
 #### REQUISITOS NO FUNCIONALES 

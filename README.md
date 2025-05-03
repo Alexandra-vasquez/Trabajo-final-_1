@@ -37,7 +37,7 @@ Curso: Algoritmia y Programación
 
 [ACTA DE COLABORACIÓN](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20COLABORACI%C3%93N.pdf)
 
-(ACTA DE ENTENDIMIENTO.pdf)
+[ACTA DE ENTENDIMIENTO](ACTA DE ENTENDIMIENTO.pdf)
 
 
 ## PARQ_UDEA

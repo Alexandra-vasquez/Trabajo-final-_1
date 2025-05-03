@@ -92,6 +92,6 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 * Confiabilidad
 
 
-
+[ACTA DE RESPONSABILIDAD](
 
 

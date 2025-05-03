@@ -7,16 +7,20 @@
 ### _ Carolayn Restrepo Tavera
 ### _ Kateryn Lopez
 
+
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
 
 ### Alexandra Vásquez
-#####     Estudiante de ingeniería industrial (virtual) sede Medellín
+#####    _Estudiante de ingeniería industrial (virtual) sede Medellín
 #### Habilidades y fortalezas
 #####   _ Resolución de problemas
 #####   _ Trabajo en equipo
 #####   _ Uso de herramientas digitales
 
 ### Carolayn Restrepo Tavera
+#####   _Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
+
+#### Habilidades y fortalezas
 #### _Proactividad
 #### _Resistencia
 #### _Compromiso
@@ -28,7 +32,6 @@
 ##### _Nombre
 ##### _Apellido
 ##### _Documento
-
 ##### _Placa
 
 #### Ingreso y retiro de vehículos:
@@ -49,14 +52,17 @@
 ##### _Lista de usuarios
 ##### _Vehículos con tiempo de parqueo máximo y mínimo
 
+
 #### EXPORTACIÓN DE DATOS
 ##### _ Enviar registros de ingresos, salidas y cobros a un archivo plano
+
 
 #### REQUISITOS NO FUNCIONALES 
 ##### _Facilidad de uso
 ##### _Proteccion de datos
 ##### _Adaptabilidad para usar en diferentes equipos
 ##### _Confiabilidad
+
 
 
 ## ACTA DE COLABORACÓN
@@ -79,7 +85,6 @@
 #### _Si no se resuelve, se solicitará una reunión grupal para votar la mejor solución.
 #### _En caso de no llegar a un acuerdo se consultará con el tutor del curso.
 
-#####      Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
 
 
 

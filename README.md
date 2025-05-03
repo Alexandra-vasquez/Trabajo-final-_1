@@ -25,6 +25,8 @@
 #### _Resistencia
 #### _Compromiso
 
+![Acta]()
+
 ## DESCRIBE REQUISITOS FUNCIONALES Y NO FUNCIONALES DEL CODIGO
 
 ### REQUISITOS FUNCIONALES 

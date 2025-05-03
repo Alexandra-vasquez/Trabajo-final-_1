@@ -25,7 +25,8 @@
 #### _Resistencia
 #### _Compromiso
 
-![ACTA DE ENTENDIMIENTO]()
+![ACTA DE ENTENDIMIENTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20ENTENDIMIENTO.pdf)
+
 
 ## DESCRIBE REQUISITOS FUNCIONALES Y NO FUNCIONALES DEL CODIGO
 

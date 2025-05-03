@@ -97,5 +97,5 @@
 ### Esta obra está licenciada bajo CC BY-NC-ND 4.0      
 
 
-
+![Acta](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/Parcial%201%20Ing%20Eco%202025-1.pdf)
 

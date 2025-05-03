@@ -37,41 +37,6 @@ Curso: Algoritmia y Programación
 
 
 
-## DESCRIBE REQUISITOS FUNCIONALES Y NO FUNCIONALES DEL CODIGO
-
-### REQUISITOS FUNCIONALES 
-#### Registro de usuario:
-* Nombre
-* Apellido
-* Documento
-* Placa
-
-#### Ingreso y retiro de vehículos:
-* Solo se permitirá entrada vehículos de usuarios registrados
-* Se cobrará la tarifa por hora, y tarifa por cuarto de hora total.
-* Condición de pago mínimo (7000).
-
-#### Acceso de administrador: 
-* El programa solo permitirá acceder al espacio de administrador a quien tenga usuario y contraseña de administración.
-#### Espacio de administración:
-* Total de vehículos registros
-* Total de vehículos retirados
-* Total de vehículos sin retirar
-* Total de pago de vehículos retirados
-* Tiempo promedio de estancia por vehículo en el parqueadero
-* Lista de usuarios
-* Vehículos con tiempo de parqueo máximo y mínimo
-
-
-#### EXPORTACIÓN DE DATOS
-* Enviar registros de ingresos, salidas y cobros a un archivo plano
-
-
-#### REQUISITOS NO FUNCIONALES 
-* Facilidad de uso
-* Proteccion de datos
-* Adaptabilidad para usar en diferentes equipos
-* Confiabilidad
 
 
 ## PARQ_UDEA
@@ -89,6 +54,43 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 *	Controlar el número de espacios disponibles:  esto hará que el parqueadero tenga un mejor flujo y mayor optimización del tiempo
 *	Facilitar el análisis de la información para la toma de decisiones mediante la generación de reportes con acceso sólo para administradores protegido con usuario y contraseña.
 *	Validación de errores comunes en el ingreso de información para mejorar la calidad de los datos registrados
+
+### DESCRIBE REQUISITOS FUNCIONALES Y NO FUNCIONALES DEL CODIGO
+
+### REQUISITOS FUNCIONALES 
+
+#### Registro de usuario:
+* Nombre
+* Apellido
+* Documento
+* Placa
+
+#### Ingreso y retiro de vehículos:
+* Solo se permitirá entrada vehículos de usuarios registrados
+* Se cobrará la tarifa por hora, y tarifa por cuarto de hora total.
+* Condición de pago mínimo (7000).
+
+#### Acceso de administrador: 
+* El programa solo permitirá acceder al espacio de administrador a quien tenga usuario y contraseña de administración.
+
+#### Espacio de administración:
+* Total de vehículos registros
+* Total de vehículos retirados
+* Total de vehículos sin retirar
+* Total de pago de vehículos retirados
+* Tiempo promedio de estancia por vehículo en el parqueadero
+* Lista de usuarios
+* Vehículos con tiempo de parqueo máximo y mínimo
+
+#### Exportación de datos
+* Enviar registros de ingresos, salidas y cobros a un archivo plano
+
+
+#### REQUISITOS NO FUNCIONALES 
+* Facilidad de uso
+* Proteccion de datos
+* Adaptabilidad para usar en diferentes equipos
+* Confiabilidad
 
 
 

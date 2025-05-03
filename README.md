@@ -67,10 +67,10 @@
 
 
 #### REQUISITOS NO FUNCIONALES 
-##### * Facilidad de uso
-##### * Proteccion de datos
-##### * Adaptabilidad para usar en diferentes equipos
-##### * Confiabilidad
+* Facilidad de uso
+* Proteccion de datos
+* Adaptabilidad para usar en diferentes equipos
+* Confiabilidad
 
 
 ## PARQ_UDEA

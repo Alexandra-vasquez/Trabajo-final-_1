@@ -40,7 +40,7 @@ Curso: Algoritmia y Programación
 
 ## PARQ_UDEA
 
-![logo](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/_69d15de4-b5a9-44d2-ad32-344f9d5e7cf0-removebg-preview.png)
+                        ![logo](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/_69d15de4-b5a9-44d2-ad32-344f9d5e7cf0-removebg-preview.png)
 
 Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
 

@@ -13,9 +13,9 @@
 ### Alexandra Vásquez
 ##### Estudiante de ingeniería industrial (virtual) sede Medellín
 #### Habilidades y fortalezas
-#####  *Resolución de problemas
-#####  *Trabajo en equipo
-#####  *Uso de herramientas digitales
+#####    *Resolución de problemas
+#####    *Trabajo en equipo
+#####    *Uso de herramientas digitales
 
 ### Carolayn Restrepo Tavera
 ##### Estudiante de de Ingeniería Indistrial (virtual) sede Medellín

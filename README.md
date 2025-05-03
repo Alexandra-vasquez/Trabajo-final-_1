@@ -25,7 +25,7 @@
 #### _Resistencia
 #### _Compromiso
 
-![Acta]()
+![ACTA DE ENTENDIMIENTO]()
 
 ## DESCRIBE REQUISITOS FUNCIONALES Y NO FUNCIONALES DEL CODIGO
 

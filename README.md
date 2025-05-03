@@ -92,6 +92,6 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 * Confiabilidad
 
 
-[ACTA DE RESPONSABILIDAD](
+[ACTA DE RESPONSABILIDAD, DIAGRAMA DE GANNTT Y PRESUPUESTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20RESPONSABILIDAD.pdf)
 
 

@@ -5,7 +5,7 @@
 ## INTEGRANTES
 ### * Alexandra Vásquez Gallego
 ### * Carolayn Restrepo Tavera
-### * Kateryn Lopez
+### * Kateryn Lopez Serna
 
 
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
@@ -20,10 +20,17 @@
 ### Carolayn Restrepo Tavera
 ##### Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
 
-### Habilidades y fortalezas
-####  * Proactividad
-####  * Resistencia
-####  * Compromiso
+#### Habilidades y fortalezas
+#####  * Proactividad
+#####  * Resistencia
+#####  * Compromiso
+
+### Kateryn López Serna
+##### Estudiante de Ingeniería Industrial (virtual) sede Medellín
+
+#### Habilidades y fortalezas
+##### * Capacidad Analítica
+##### * Adaptabilidad
 
 ![ACTA DE ENTENDIMIENTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20ENTENDIMIENTO.pdf)
 
@@ -72,6 +79,18 @@
 
 #### Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
 
-### Esta obra está licenciada bajo CC BY-NC-ND 4.0      
+El software que se desarrollará permitirá llevar un registro más organizado y eficiente con esto no solo se verán beneficiados los empleados de la zona de registro y el área administrativa, sino también los usuarios.
+
+#### Objetivos y Beneficios
+*	Simplificar el registro de ingreso y salida de vehículos: así tendremos un mejor conteo de entradas y salidas del parqueadero.
+*	Calcular automáticamente el valor a pagar según el tiempo de permanencia; esto hará que este trámite sea más seguro y eficaz teniendo en cuenta que este software tiene la capacidad de generar y exportar un reporte de transacciones en un archivo plano y así tener un soporte y una contabilidad más precisa 
+*	Controlar el número de espacios disponibles:  esto hará que el parqueadero tenga un mejor flujo y mayor optimización del tiempo
+*	Facilitar el análisis de la información para la toma de decisiones mediante la generación de reportes con acceso sólo para administradores protegido con usuario y contraseña.
+*	Validación de errores comunes en el ingreso de información para mejorar la calidad de los datos registrados
+
+
+### Esta obra está licenciada bajo CC BY-NC-ND 4.0
+
+
 
 

@@ -3,9 +3,9 @@
 ### Curso: Algoritmia y Programación
 
 ## INTEGRANTES
-### _ Alexandra Vásquez Gallego
-### _ Carolayn Restrepo Tavera
-### _ Kateryn Lopez
+### * Alexandra Vásquez Gallego
+### * Carolayn Restrepo Tavera
+### * Kateryn Lopez
 
 
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN

@@ -11,19 +11,19 @@
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
 
 ### Alexandra Vásquez
-#####    _Estudiante de ingeniería industrial (virtual) sede Medellín
+##### Estudiante de ingeniería industrial (virtual) sede Medellín
 #### Habilidades y fortalezas
-#####   _ Resolución de problemas
-#####   _ Trabajo en equipo
-#####   _ Uso de herramientas digitales
+#####  *Resolución de problemas
+#####  *Trabajo en equipo
+#####  *Uso de herramientas digitales
 
 ### Carolayn Restrepo Tavera
-#####   _Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
+##### Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
 
-#### Habilidades y fortalezas
-#### _Proactividad
-#### _Resistencia
-#### _Compromiso
+### Habilidades y fortalezas
+####  *Proactividad
+####  *Resistencia
+####  *Compromiso
 
 ![ACTA DE ENTENDIMIENTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20ENTENDIMIENTO.pdf)
 

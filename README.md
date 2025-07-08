@@ -13,6 +13,8 @@ Curso: Algoritmia y Programación
 
 ### Alexandra Vásquez
 ##### Estudiante de ingeniería industrial (virtual) sede Medellín
+##### Semestre: 4
+
 #### Habilidades y fortalezas
 * Resolución de problemas
 * Trabajo en equipo
@@ -20,6 +22,7 @@ Curso: Algoritmia y Programación
 
 ### Carolayn Restrepo Tavera
 ##### Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
+##### Semestre: 4
 
 #### Habilidades y fortalezas
 * Proactividad

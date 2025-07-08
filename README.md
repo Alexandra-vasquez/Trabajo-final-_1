@@ -31,6 +31,7 @@ Curso: Algoritmia y Programación
 
 ### Kateryn López Serna
 ##### Estudiante de Ingeniería Industrial (virtual) sede Medellín
+##### Semestre: 4
 
 #### Habilidades y fortalezas
 * Capacidad Analítica

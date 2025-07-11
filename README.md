@@ -52,7 +52,6 @@ El parqueadero ParqUdea cuenta con tres personas que trabajan turnos de 6 horas 
 
 Para solucionar este problema los estudiantes en grupos de tres integrantes deberán crear un programa que se encargue gestionar el parqueadero ParqUdea, en donde mediante entregas programadas y detalladas se pueda alcanzar el propósito de desarrollo. El programa debe ser entregado en un repositorio de GitHub en donde el líder del equipo será el encargado de crear y gestionar el espacio de desarrollo.
 
-Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
 
 ### Esta obra está licenciada bajo CC BY-NC-ND 4.0
 El software que se desarrollará permitirá llevar un registro más organizado y eficiente, con esto no solo se verán beneficiados los empleados de la zona de registro y el área administrativa, sino también los usuarios.

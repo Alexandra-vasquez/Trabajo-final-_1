@@ -46,6 +46,12 @@ Curso: Algoritmia y Programación
 
 ![logo](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/_69d15de4-b5a9-44d2-ad32-344f9d5e7cf0-removebg-preview.png?raw=true)
 
+El parqueadero Parqudea es un espacio que presta su servicio a vehículos del sector de la Universidad de Antioquia. Este solo permite el ingreso de automóviles, el ingreso de motos no es aceptado. El parqueadero Parqudea requiere de sus habilidades como un equipo de programación de la respetada y bien ponderada Universidad de Antioquia para crear un software de consola en Python para poder gestionar usuarios, generar cobros, facturas, reportes y algo más.
+
+El parqueadero (insertar nombre) cuenta con tres personas que trabajan turnos de 6 horas para atender a los usuarios que ingresan a usar el servicio y no presentar interrupciones ni contratiempos en el horario de 6:00 a.m. a 12:00 p.m. en jornada continua. El programa debe registrar usuarios, ingresar y retirar vehículos y generar reportes administrativos. 
+
+Para solucionar este problema los estudiantes en grupos de tres integrantes deberán crear un programa que se encargue gestionar el parqueadero (insertar nombre), en donde mediante entregas programadas y detalladas se pueda alcanzar el propósito de desarrollo. El programa debe ser entregado en un repositorio de GitHub en donde el líder del equipo será el encargado de crear y gestionar el espacio de desarrollo.
+
 Este proyecto consiste en crear un código en Python para un parqueadero en la universidad de Antioquia, que busca optimizar las actividades del parqueadero como registro, ingreso y salida de vehículos; esta necesidad surge ya que actualmente los registros del parqueadero funcionan de forma manual
 
 ### Esta obra está licenciada bajo CC BY-NC-ND 4.0

@@ -90,7 +90,7 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 
 #### Exportación de datos
 * Enviar registros de ingresos, salidas y cobros a un archivo plano.
-  ¿Qué se debe exportar?
+  #### ¿Qué se debe exportar?
 * Ingresos de vehículos
 * Usuario, placa, hora/fecha de entrada.
 * Salidas de vehículos

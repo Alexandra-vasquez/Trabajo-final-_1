@@ -89,7 +89,15 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 * Vehículos con tiempo de parqueo máximo y mínimo
 
 #### Exportación de datos
-* Enviar registros de ingresos, salidas y cobros a un archivo plano
+* Enviar registros de ingresos, salidas y cobros a un archivo plano.
+  ¿Qué se debe exportar?
+* Ingresos de vehículos
+* Usuario, placa, hora/fecha de entrada.
+* Salidas de vehículos
+* Usuario, placa, hora/fecha salida, duración, cobro total.
+* Cobros realizados
+* Placa, tiempo en parqueo, monto pagado.
+* Usuarios registrados
 
 
 #### REQUISITOS NO FUNCIONALES 

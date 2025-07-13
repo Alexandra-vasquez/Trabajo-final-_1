@@ -50,8 +50,6 @@ El parqueadero Parqudea es un espacio que presta su servicio a vehículos del se
 
 El parqueadero ParqUdea cuenta con tres personas que trabajan turnos de 6 horas para atender a los usuarios que ingresan a usar el servicio y no presentar interrupciones ni contratiempos en el horario de 6:00 a.m. a 12:00 p.m. en jornada continua. El programa debe registrar usuarios, ingresar y retirar vehículos y generar reportes administrativos. 
 
-Para solucionar este problema los estudiantes en grupos de tres integrantes deberán crear un programa que se encargue gestionar el parqueadero ParqUdea, en donde mediante entregas programadas y detalladas se pueda alcanzar el propósito de desarrollo. El programa debe ser entregado en un repositorio de GitHub en donde el líder del equipo será el encargado de crear y gestionar el espacio de desarrollo.
-
 
 ### Esta obra está licenciada bajo CC BY-NC-ND 4.0
 El software que se desarrollará permitirá llevar un registro más organizado y eficiente, con esto no solo se verán beneficiados los empleados de la zona de registro y el área administrativa, sino también los usuarios.

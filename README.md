@@ -69,6 +69,28 @@ Eliminar la gestión manual (en papel), reducir errores en el cobro y aumentar e
 * Empleados que atienden: necesitan un sistema ágil, claro y rápido para registrar entradas/salidas y generar cobros.
 * Administrador: requiere reportes detallados sobre la operación y estadísticas del parqueadero.
 
+#### Gestión de accesos y permisos
+El sistema contará con niveles de acceso diferenciados:
+* Usuarios comunes: Pueden registrar su vehículo y consultar su información al ingresar o salir del parqueadero. Su acceso está limitado únicamente a sus propios datos y transacciones.
+* Administradores o “Súper usuarios”: Acceden mediante usuario y contraseña previamente definidos en el sistema. Tienen privilegios para:
+    * Consultar estadísticas operativas (total de ingresos, retiros, pagos, usuarios activos, etc.).
+    * Generar y exportar reportes.
+    * Visualizar tiempos promedios de permanencia y vehículos con máximos o mínimos tiempos de parqueo.
+
+#### Proyección futura e impacto
+Este proyecto no solo representa una solución puntual al problema de gestión manual en ParqUdea, sino que tiene una visión a largo plazo:
+* Escalabilidad: La estructura del software está diseñada para adaptarse fácilmente a nuevas funcionalidades.
+* Interoperabilidad: Los archivos CSV exportados podrán integrarse a plataformas de control financiero o sistemas de gestión administrativa más avanzados, si el parqueadero decide ampliar su infraestructura digital.
+
+#### Impacto a la comunidad interna:
+Estudiantes, docentes y administrativos contarán con un servicio más ágil, transparente y ordenado. Se reducirá el tiempo de espera, se evitarán errores en cobros y se facilitará el control del parqueo.
+
+#### Impacto a la comunidad externa:
+El proyecto fortalece la experiencia práctica de los estudiantes en el desarrollo de software con impacto real.
+
+#### Proyección académica y profesional:
+La creación del repositorio GitHub, el trabajo colaborativo, la documentación técnica y el cumplimiento de entregas parciales fomentan habilidades que alinean con las demandas del mercado laboral actual en desarrollo de software, análisis de datos y gestión de proyectos.
+
 
 ### DESCRIBE REQUISITOS FUNCIONALES Y NO FUNCIONALES DEL CODIGO
 

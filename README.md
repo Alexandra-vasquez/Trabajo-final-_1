@@ -61,6 +61,15 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 *	Facilitar el análisis de la información para la toma de decisiones mediante la generación de reportes con acceso sólo para administradores protegido con usuario y contraseña.
 *	Validación de errores comunes en el ingreso de información para mejorar la calidad de los datos registrados
 
+#### ¿Qué problema específico estamos tratando de resolver con esta aplicación?
+Eliminar la gestión manual (en papel), reducir errores en el cobro y aumentar el control administrativo sobre los vehículos, usuarios y operaciones del parqueadero.
+
+#### ¿Quiénes son los usuarios finales y qué necesidades específicas tienen?
+* Usuarios del parqueadero: quieren ingresar/retirar sus vehículos sin complicaciones.
+* Empleados que atienden: necesitan un sistema ágil, claro y rápido para registrar entradas/salidas y generar cobros.
+* Administrador: requiere reportes detallados sobre la operación y estadísticas del parqueadero.
+
+
 ### DESCRIBE REQUISITOS FUNCIONALES Y NO FUNCIONALES DEL CODIGO
 
 ### REQUISITOS FUNCIONALES 

@@ -137,6 +137,7 @@ La creación del repositorio GitHub, el trabajo colaborativo, la documentación 
 * Adaptabilidad para usar en diferentes equipos
 * Confiabilidad
 
+https://colab.research.google.com/drive/1hDeQz-2JgGwG9Wmare637yvJE9SOMcID?usp=sharing 
 
 [ACTA DE RESPONSABILIDAD, DIAGRAMA DE GANNTT Y PRESUPUESTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20RESPONSABILIDAD.pdf)
 
